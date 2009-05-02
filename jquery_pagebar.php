@@ -98,7 +98,7 @@ function jp_add_header_js() {
 
 			
 		if (($dbm and $dam and $dbc) == "")
-		 	$dac= "/";
+		 	$dbm= "/";
 	
 		echo "\n";	
 	
