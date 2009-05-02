@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Pagebar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-28 17:42+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ocean90 <admin@ocean90.de>\n"
+"Language-Team: ocean90 <admin@ocean90.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery_pagebar.php:274
+msgid "Settings saved."
+msgstr ""
+
+#: jquery_pagebar.php:286
+msgid "Settings"
+msgstr ""
+
+#: jquery_pagebar.php:288
+msgid "Position of the jQuery-Pagebar:"
+msgstr ""
+
+#: jquery_pagebar.php:289
+msgid "Set jQuery-Pagebar on:"
+msgstr ""
+
+#: jquery_pagebar.php:292
+msgid "top"
+msgstr ""
+
+#: jquery_pagebar.php:293
+msgid "bottom"
+msgstr ""
+
+#: jquery_pagebar.php:295
+msgid "of the loop."
+msgstr ""
+
+#: jquery_pagebar.php:298
+msgid "Colors of the jQuery-Pagebar:"
+msgstr ""
+
+#: jquery_pagebar.php:300
+msgid "Colors of the bar:"
+msgstr ""
+
+#: jquery_pagebar.php:303
+#: jquery_pagebar.php:316
+#: jquery_pagebar.php:329
+#: jquery_pagebar.php:342
+msgid "Background color:"
+msgstr ""
+
+#: jquery_pagebar.php:307
+#: jquery_pagebar.php:320
+#: jquery_pagebar.php:333
+#: jquery_pagebar.php:346
+msgid "Border color:"
+msgstr ""
+
+#: jquery_pagebar.php:313
+msgid "Color of the slider (normal):"
+msgstr ""
+
+#: jquery_pagebar.php:326
+msgid "Color of the slider (active):"
+msgstr ""
+
+#: jquery_pagebar.php:339
+msgid "Color of the slider (hover):"
+msgstr ""
+
+#: jquery_pagebar.php:354
+msgid "Preview"
+msgstr ""
+
+#: jquery_pagebar.php:361
+msgid "Generate preview"
+msgstr ""
+
+#: jquery_pagebar.php:364
+msgid "Uninstall:"
+msgstr ""
+
+#: jquery_pagebar.php:365
+msgid "Remove Settings when plugin is deactivated from the \"Manage Plugins\" page."
+msgstr ""
+
+#: jquery_pagebar.php:367
+msgid "Save Changes"
+msgstr ""
+
+#: jquery_pagebar.php:371
+msgid "About"
+msgstr ""
+
+#: jquery_pagebar.php:373
+msgid "Thanks to..."
+msgstr ""
+
+#: jquery_pagebar.php:374
+msgid "<em>Stefan Petre</em> for the jQuery Plugin <em><a href=\"http://www.eyecon.ro/colorpicker/\">Colorpicker</a></em>."
+msgstr ""
+
+#: jquery_pagebar.php:375
+msgid "The <em>development team</em> from <em><a href=\"http://jquery.com/\">jQuery</a></em> and <em><a href=\"http://jqueryui.com/\">jQuery UI</a></em>"
+msgstr ""
+
+#: jquery_pagebar.php:377
+msgid "Plugin developed by <em><a href=\"http://ocean90.de\">ocean90</a></em>"
+msgstr ""
+
