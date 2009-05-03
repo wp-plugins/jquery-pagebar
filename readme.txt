@@ -3,7 +3,7 @@ Contributors: ocean90
 Tags: pagebar, jquery, navigation
 Requires at least: 2.7
 Tested up to: 2.7.1
-Stable tag: 0.2.1
+Stable tag: 0.3
 
 This plugin show instead of the next and prev links a jQuery slider as a modern pagebar. So it's easy to navigate through many pages.
 
