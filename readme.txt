@@ -16,7 +16,7 @@ With that new kind of JavaScript Library this plugin works.
  
 jQuery-Pagebar show instead of the next and prev links a jQuery slider as a modern pagebar. So it's easy to navigate through many pages.
 
-You can see an [demo on my blog][1].   [1]: http://ocean90.de/blog/ 
+You can see an demo on my blog: http://ocean90.de/blog/ 
 
 == Installation ==
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
@@ -31,8 +31,8 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 * you can reset the options now
 * jquery-pagebar is now on archive pages too
 * codes only loaded if they are necessary
-* option for showing links to the next or previous page arround the page numbers( « 34 / 46 »)
-* add little pagebar for users with no javascript (« Navigation »)
+* option for showing links to the next or previous page arround the page numbers( &laquo; 34 / 46 &raquo;)
+* add little pagebar for users with no javascript (&laquo; Navigation &raquo;)
 
 = version 0.2.1 =
 * fix language file
