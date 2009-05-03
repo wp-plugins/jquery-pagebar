@@ -21,6 +21,9 @@ You can see an demo on my blog: http://ocean90.de/blog/
 == Installation ==
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
+== Screenshots ==
+
+1. Screen of jQuery-Pagebar
 
 == Changelog ==
 
