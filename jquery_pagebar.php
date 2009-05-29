@@ -766,4 +766,10 @@ if (function_exists('add_filter')) {
 register_activation_hook(__FILE__, 'jp_install');
 register_deactivation_hook(__FILE__,'jp_uninstall');
 
+/*
+	load jquery
+*/
+wp_enqueue_script('jquery');
+wp_enqueue_script('jquery-ui-core');
+
 ?>
