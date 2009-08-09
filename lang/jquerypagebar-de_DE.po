@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Pagebar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-29 16:23+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ocean90 <admin@ocean90.de>\n"
+"Language-Team: ocean90 <admin@ocean90.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery_pagebar.php:33
+#: jquery_pagebar.php:462
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: jquery_pagebar.php:233
+msgid "Newer Entries"
+msgstr "Neue Artikel"
+
+#: jquery_pagebar.php:238
+msgid "Older Entries"
+msgstr "&Auml;ltere Artikel"
+
+#: jquery_pagebar.php:244
+msgid "Navigation"
+msgstr "Navigation:"
+
+#: jquery_pagebar.php:395
+msgid "Settings reset."
+msgstr "Einstellungen zur&uuml;ck setzen."
+
+#: jquery_pagebar.php:442
+msgid "Attention, you have the loading of jQuery disabled. Please check if jQuery is loaded differently, otherwise the jQuery-Pagebar is not displayed."
+msgstr "Achtung, du das hat das Laden von jQuery deaktiviert. Bitte &uuml;berpr&uuml;fe ob jQuery anders gelanden wird, ansonsten wird die jQuery-Pagebar nicht angezeigt."
+
+#: jquery_pagebar.php:445
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: jquery_pagebar.php:464
+msgid "Position of the jQuery-Pagebar:"
+msgstr "Position der jQuery-Pagebar"
+
+#: jquery_pagebar.php:466
+msgid "Set jQuery-Pagebar"
+msgstr "Setze jQuery-Pagebar"
+
+#: jquery_pagebar.php:476
+msgid " on top."
+msgstr "am Anfang."
+
+#: jquery_pagebar.php:477
+msgid " on bottom."
+msgstr "am Ende."
+
+#: jquery_pagebar.php:478
+msgid " manually."
+msgstr "manuell."
+
+#: jquery_pagebar.php:481
+msgid ""
+"<p><strong>You choose manuelly,</strong><br />\n"
+"                        please copy following code and paste it in your theme.</p>"
+msgstr ""
+"<p><strong>Du hast manuell gew&auml;hlt,</strong><br />\n"
+"                        kopiere folgenden Code und f&uuml;ge ihn in dein Theme ein.</p>"
+
+#: jquery_pagebar.php:487
+msgid "Width of the jQuery-Pagebar:"
+msgstr "Breite der jQuery-Pagebar"
+
+#: jquery_pagebar.php:488
+msgid "You can use %, px or em: "
+msgstr "Du kannst %, px oder em nutzen."
+
+#: jquery_pagebar.php:490
+msgid "Colors of the jQuery-Pagebar:"
+msgstr "Farben der jQuery-Pagebar"
+
+#: jquery_pagebar.php:492
+msgid "Colors of the bar:"
+msgstr "Farben der Bar:"
+
+#: jquery_pagebar.php:495
+#: jquery_pagebar.php:508
+#: jquery_pagebar.php:521
+#: jquery_pagebar.php:534
+msgid "Background color:"
+msgstr "Hintergrundfarbe:"
+
+#: jquery_pagebar.php:499
+#: jquery_pagebar.php:512
+#: jquery_pagebar.php:525
+#: jquery_pagebar.php:538
+msgid "Border color:"
+msgstr "Rahmenfarbe"
+
+#: jquery_pagebar.php:505
+msgid "Color of the slider (normal):"
+msgstr "Farben des Sliders (Normal):"
+
+#: jquery_pagebar.php:518
+msgid "Color of the slider (active):"
+msgstr "Farben des Sliders (Aktiv):"
+
+#: jquery_pagebar.php:531
+msgid "Color of the slider (hover):"
+msgstr "Farben des Sliders (Hover):"
+
+#: jquery_pagebar.php:545
+msgid "Preview"
+msgstr "Vorschau"
+
+#: jquery_pagebar.php:552
+msgid "Generate preview"
+msgstr "Vorschau erstellen"
+
+#: jquery_pagebar.php:556
+msgid "Style and display of the number of the page:"
+msgstr "Stil und Anzeige des Seitenzahlen:"
+
+#: jquery_pagebar.php:559
+msgid "Color:"
+msgstr "Schriftfarbe:"
+
+#: jquery_pagebar.php:563
+msgid "Font-size:"
+msgstr "Schriftgr&ouml;&szlig;e:"
+
+#: jquery_pagebar.php:567
+msgid "Font-weight:"
+msgstr "Schriftst&auml;rke:"
+
+#: jquery_pagebar.php:582
+msgid "Display:"
+msgstr "Anzeige:"
+
+#: jquery_pagebar.php:584
+msgid "{Current}"
+msgstr "{aktuelle Seite}"
+
+#: jquery_pagebar.php:584
+msgid "{Max Page}"
+msgstr "{letzte Seite}"
+
+#: jquery_pagebar.php:590
+msgid "Load jQuery and jQuery UI with Slider:"
+msgstr "Lade jQUery und jQuery UI mit Slider:"
+
+#: jquery_pagebar.php:591
+msgid "Load jQuery from the plugin dir. It is version 1.3.2."
+msgstr "Lade jQuery vom Pluginverzeichnis. Version 1.3.2."
+
+#: jquery_pagebar.php:592
+msgid "Load jQuery UI with Slider from the plugin dir. It is version 1.7.1. <font color=\"red\">This is important, without it jQuery-Pagebar doesn't work!</font>"
+msgstr "Lade jQuery UI mit Slider vom Pluginverzeichnis. Version 1.7.1. <font color=\"red\">Dies ist wichtig; ohne dieses Skript wird die  jQuery-Pagebar nicht laufen!</font>"
+
+#: jquery_pagebar.php:593
+msgid "Load jQuery-Pagebar script in"
+msgstr "Lade das jQuery-Pagebar Skript im"
+
+#: jquery_pagebar.php:599
+msgid " footer"
+msgstr "Footer"
+
+#: jquery_pagebar.php:599
+msgid " or in "
+msgstr " oder im "
+
+#: jquery_pagebar.php:600
+msgid " head."
+msgstr "Header."
+
+#: jquery_pagebar.php:602
+msgid "Navigation:"
+msgstr "Navigation:"
+
+#: jquery_pagebar.php:603
+msgid "Remove standard WordPress navigation automatically."
+msgstr "Entferne die Standard Navigation automatisch."
+
+#: jquery_pagebar.php:604
+msgid "Show linked arrows to the next or previous page before an after the page number.  <font color=\"red\">You should activated this option for visitors who had deactivated javascript.</font>"
+msgstr "Zeige um die Seitenzahlen Links zur n&auml;chsten bzw. vorherigen Seite an. <font color=\"red\">Dies sollte aktiviert bleiben damit Besucher, die Javascript deaktiviert haben, trotzdem noch navigieren k&ouml;nnen.</font>"
+
+#: jquery_pagebar.php:607
+msgid "Uninstall:"
+msgstr "Deinstallieren:"
+
+#: jquery_pagebar.php:608
+msgid "Remove Settings when plugin is deactivated from the \"Manage Plugins\" page."
+msgstr "Einstellungen entfernen, wenn das Plugin unter \"Plugins\" deaktiviert wird."
+
+#: jquery_pagebar.php:610
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#: jquery_pagebar.php:610
+msgid "Reset Options"
+msgstr "Standardeinstellungen wiederherstellen"
+
+#: jquery_pagebar.php:614
+msgid "About jQuery-Pagebar"
+msgstr "&Uuml;ber jQuery-Pagebar"
+
+#: jquery_pagebar.php:616
+msgid "Thanks to..."
+msgstr "Danke an..."
+
+#: jquery_pagebar.php:617
+msgid "<em>Stefan Petre</em> for the jQuery Plugin <em><a href=\"http://www.eyecon.ro/colorpicker/\">Colorpicker</a></em>."
+msgstr "<em>Stefan Petre</em> f&uuml;r das jQuery Plugin <em><a href=\"http://www.eyecon.ro/colorpicker/\">Colorpicker</a></em>."
+
+#: jquery_pagebar.php:618
+msgid "The <em>development team</em> from <em><a href=\"http://jquery.com/\">jQuery</a></em> and <em><a href=\"http://jqueryui.com/\">jQuery UI</a></em>"
+msgstr "Das <em>Entwickler Team</em> von <em><a href=\"http://jquery.com/\">jQuery</a></em> und <em><a href=\"http://jqueryui.com/\">jQuery UI</a></em>"
+
+#: jquery_pagebar.php:619
+msgid "<em>Denis</em> for beta testing jQuery-Pagebar on his blog <em><a href=\"http://pixonder.de/\">pixonder.de</a></em>."
+msgstr "<em>Denis</em> f&uuml;r das Testen von jQuery-Pagebar auf seinem Blog <em><a href=\"http://pixonder.de/\">pixonder.de</a></em>."
+
+#: jquery_pagebar.php:621
+msgid "Support"
+msgstr "Hilfe"
+
+#: jquery_pagebar.php:622
+msgid "If you have problems or wishes you can comment on the plugin page or write me via <a href=\"http://twitter.com/ocean90_EN\">Twitter (EN)</a>/<a href=\"http://twitter.com/ocean90\">Twitter (DE)</a>"
+msgstr "Wenn du Probleme oder W&uuml;sche hast, kannst du sie mir per Kommentar auf der Plugin Seite oder via  <a href=\"http://twitter.com/ocean90_EN\">Twitter (EN)</a>/<a href=\"http://twitter.com/ocean90\">Twitter (DE)</a> mitteilen."
+
+#: jquery_pagebar.php:626
+msgid " - The better navigation for WordPress"
+msgstr " - Die bessere Navigation f&uuml;r WordPress"
+
+#: jquery_pagebar.php:626
+msgid "Version"
+msgstr "Version"
+
+#: jquery_pagebar.php:626
+msgid "History"
+msgstr "Changelog"
+
+#: jquery_pagebar.php:626
+msgid "Author"
+msgstr "Autor"
+
+#~ msgid "Hide navigation:"
+#~ msgstr "Verstecke die Navigation:"
+#~ msgid "top"
+#~ msgstr "Anfang"
+#~ msgid "text_after_current"
+#~ msgstr "text_nach_aktuellen_seite"
+#~ msgid "text_before_current"
+#~ msgstr "text_vor_aktuellen_seite"
+#~ msgid "text_after_maxpage"
+#~ msgstr "text_nach_letze_seite"
+#~ msgid "text_before_maxpage"
+#~ msgstr "text_vor_letze_seite"
+#~ msgid "About"
+#~ msgstr "&Uuml;ber"
+#~ msgid ""
+#~ "Plugin developed by <em><a href=\"http://ocean90.de\">ocean90</a></em>"
+#~ msgstr ""
+#~ "Plugin entwickelt von <em><a href=\"http://ocean90.de\">ocean90</a></em>"
+
