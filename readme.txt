@@ -28,7 +28,8 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 == Changelog ==
 = version 0.3.2.2 =
-* fix bug, thx to scribu (http://wordpress.org/support/topic/298820)
+* fix bug, thx to scribu [298820](http://wordpress.org/support/topic/298820 "298820")
+* add russian language file, thx to [fatcow.com](http://fatcow.com/ "fatcow.com")
 
 
 = version 0.3.2.1 =
