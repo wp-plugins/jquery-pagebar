@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery-Pagebar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-29 16:31+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dominik Schilling <dominik.schilling@gmail.com>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery_pagebar.php:244
+msgid "Navigation"
+msgstr "Навигация"
+
+#: jquery_pagebar.php:395
+msgid "Settings reset."
+msgstr "Настройки сброшены."
+
+#: jquery_pagebar.php:442
+msgid "Attention, you have the loading of jQuery disabled. Please check if jQuery is loaded differently, otherwise the jQuery-Pagebar is not displayed."
+msgstr "Внимание, у вас отключена загрузка jQuery. Пожалуйста, проверьте, что jQuery загружается, в противном случае jQuery-Pagebar небудет отображаться."
+
+#: jquery_pagebar.php:445
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: jquery_pagebar.php:462
+msgid "Settings"
+msgstr "Настройки"
+
+#: jquery_pagebar.php:464
+msgid "Position of the jQuery-Pagebar:"
+msgstr "Расположение jQuery-Pagebar:"
+
+#: jquery_pagebar.php:466
+msgid "Set jQuery-Pagebar"
+msgstr "Установить jQuery-Pagebar:"
+
+#: jquery_pagebar.php:476
+msgid " on top."
+msgstr " сверху."
+
+#: jquery_pagebar.php:477
+msgid " on bottom."
+msgstr "снизу."
+
+#: jquery_pagebar.php:478
+msgid " manually."
+msgstr " вручную."
+
+#: jquery_pagebar.php:481
+msgid ""
+"<p><strong>You choose manuelly,</strong><br />\n"
+"                        please copy following code and paste it in your theme.</p>"
+msgstr ""
+"<p><strong>Вы выбираете самостоятельно,</strong><br />\n"
+" пожалуйтста, скопируйте и вставьте следующий код в вашу тему.</p>"
+
+#: jquery_pagebar.php:487
+msgid "Width of the jQuery-Pagebar:"
+msgstr "Ширина jQuery-Pagebar:"
+
+#: jquery_pagebar.php:488
+msgid "You can use %, px or em: "
+msgstr "Вы можете использовать %, px или em: "
+
+#: jquery_pagebar.php:490
+msgid "Colors of the jQuery-Pagebar:"
+msgstr "Цвета jQuery-Pagebar:"
+
+#: jquery_pagebar.php:492
+msgid "Colors of the bar:"
+msgstr "Цвета панели:"
+
+#: jquery_pagebar.php:495
+#: jquery_pagebar.php:508
+#: jquery_pagebar.php:521
+#: jquery_pagebar.php:534
+msgid "Background color:"
+msgstr "Фоновый цвет:"
+
+#: jquery_pagebar.php:499
+#: jquery_pagebar.php:512
+#: jquery_pagebar.php:525
+#: jquery_pagebar.php:538
+msgid "Border color:"
+msgstr "Цвет границы:"
+
+#: jquery_pagebar.php:505
+msgid "Color of the slider (normal):"
+msgstr "Цвет слайдера (норм.):"
+
+#: jquery_pagebar.php:518
+msgid "Color of the slider (active):"
+msgstr "Цвет слайдера (активный):"
+
+#: jquery_pagebar.php:531
+msgid "Color of the slider (hover):"
+msgstr "Цвет слайдера (при наведении):"
+
+#: jquery_pagebar.php:545
+msgid "Preview"
+msgstr "Предосмотр"
+
+#: jquery_pagebar.php:552
+msgid "Generate preview"
+msgstr "Генерировать предосмотр"
+
+#: jquery_pagebar.php:556
+msgid "Style and display of the number of the page:"
+msgstr "Стиль и отображение количества страниц:"
+
+#: jquery_pagebar.php:559
+msgid "Color:"
+msgstr "Цвет:"
+
+#: jquery_pagebar.php:563
+msgid "Font-size:"
+msgstr "Размер шрифта:"
+
+#: jquery_pagebar.php:567
+msgid "Font-weight:"
+msgstr "Ширина шрифта:"
+
+#: jquery_pagebar.php:582
+msgid "Display:"
+msgstr "Отображать:"
+
+#: jquery_pagebar.php:584
+msgid "{Current}"
+msgstr "{Текущий}"
+
+#: jquery_pagebar.php:584
+msgid "{Max Page}"
+msgstr "{Максимально страниц}"
+
+#: jquery_pagebar.php:590
+msgid "Load jQuery and jQuery UI with Slider:"
+msgstr "Загружать jQuery и jQuery UI со слайдером:"
+
+#: jquery_pagebar.php:591
+msgid "Load jQuery from the plugin dir. It is version 1.3.2."
+msgstr "Загружать jQuery из директории плагина: Версия 1.3.2."
+
+#: jquery_pagebar.php:592
+msgid "Load jQuery UI with Slider from the plugin dir. It is version 1.7.1. <font color=\"red\">This is important, without it jQuery-Pagebar doesn't work!</font>"
+msgstr "Загружать jQuery из директории плагина: Версия 1.7.1.<font color=\"red\">Это важно, без jQuery-Pagebar это не будет работать!</font>"
+
+#: jquery_pagebar.php:593
+msgid "Load jQuery-Pagebar script in"
+msgstr "Загружать jQuery-Pagebar скрипт в"
+
+#: jquery_pagebar.php:599
+msgid " footer"
+msgstr "подвал"
+
+#: jquery_pagebar.php:599
+msgid " or in "
+msgstr " или в"
+
+#: jquery_pagebar.php:600
+msgid " head."
+msgstr " шапке."
+
+#: jquery_pagebar.php:602
+msgid "Navigation:"
+msgstr "Навигация:"
+
+#: jquery_pagebar.php:603
+msgid "Remove standard WordPress navigation automatically."
+msgstr "Удалить стандартную навигацию WordPress ."
+
+#: jquery_pagebar.php:604
+msgid "Show linked arrows to the next or previous page before an after the page number.  <font color=\"red\">You should activated this option for visitors who had deactivated javascript.</font>"
+msgstr "Показать связанные стрелки на следующую или предыдущую страницу до и после номера страницы. <font color=\"red\">Вы должны активировать эту опцию для посетителей, которые отключат JavaScript.</font>"
+
+#: jquery_pagebar.php:607
+msgid "Uninstall:"
+msgstr "Удаление:"
+
+#: jquery_pagebar.php:608
+msgid "Remove Settings when plugin is deactivated from the \"Manage Plugins\" page."
+msgstr "Удалите настройки, отключив перед этим плагин  на странице управления плагинами."
+
+#: jquery_pagebar.php:610
+msgid "Save Changes"
+msgstr "Сохранить настройки"
+
+#: jquery_pagebar.php:610
+msgid "Reset Options"
+msgstr "Сбросить настройки"
+
+#: jquery_pagebar.php:614
+msgid "About jQuery-Pagebar"
+msgstr "О jQuery-Pagebar"
+
+#: jquery_pagebar.php:616
+msgid "Thanks to..."
+msgstr "Спасибо..."
+
+#: jquery_pagebar.php:617
+msgid "<em>Stefan Petre</em> for the jQuery Plugin <em><a href=\"http://www.eyecon.ro/colorpicker/\">Colorpicker</a></em>."
+msgstr "<em>Stefan Petre</em> за плагин jQuery<em><a href=\"http://www.eyecon.ro/colorpicker/\">Colorpicker</a></em>."
+
+#: jquery_pagebar.php:618
+msgid "The <em>development team</em> from <em><a href=\"http://jquery.com/\">jQuery</a></em> and <em><a href=\"http://jqueryui.com/\">jQuery UI</a></em>"
+msgstr "The <em>Команда разработки</em> from <em><a href=\"http://jquery.com/\">jQuery</a></em> and <em><a href=\"http://jqueryui.com/\">jQuery UI</a></em>"
+
+#: jquery_pagebar.php:619
+msgid "<em>Denis</em> for beta testing jQuery-Pagebar on his blog <em><a href=\"http://pixonder.de/\">pixonder.de</a></em>."
+msgstr "<em>Denis</em> за beta-тестирование jQuery-Pagebar на его блоге <em><a href=\"http://pixonder.de/\">pixonder.de</a></em>."
+
+#: jquery_pagebar.php:621
+msgid "Support"
+msgstr "Поддержка"
+
+#: jquery_pagebar.php:622
+msgid "If you have problems or wishes you can comment on the plugin page or write me via <a href=\"http://twitter.com/ocean90_EN\">Twitter (EN)</a>/<a href=\"http://twitter.com/ocean90\">Twitter (DE)</a>"
+msgstr "Если у вас есть проблемы или трудности, вы можете оставить комментарий на странице <a href=\"http://twitter.com/ocean90_EN\">Twitter (EN)</a>/<a href=\"http://twitter.com/ocean90\">Twitter (DE)</a>"
+
