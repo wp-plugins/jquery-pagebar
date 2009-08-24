@@ -36,7 +36,6 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 == Changelog ==
 = version 0.3.3 =
 * fix bug, thx to  [fruity](http://ocean90.wphelper.de/wordpress/plugin-jquery-pagebar/#comment-9007 "Comment")
-* Javascript libaries are now only loaded when they are needed by jQuery Pagebar
  
 = version 0.3.2.2 =
 * fix bug, thx to scribu [298820](http://wordpress.org/support/topic/298820 "298820")

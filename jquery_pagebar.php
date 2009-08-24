@@ -1,11 +1,11 @@
 <?php
 /* 
 Plugin Name: jQuery-Pagebar
-Plugin URI: http://ocean90.de/blog/wordpress/plugin-jquery-pagebar/
+Plugin URI: http://ocean90.wphelper.de/wordpress/plugin-jquery-pagebar/
 Description: A pagebar for WordPress build with jQuery and jQuery UI.
 Version: 0.3.3
 Author: ocean90
-Author URI: http://ocean90.de
+Author URI: http://ocean90.wphelper.de
 */
 
 /*
@@ -673,6 +673,8 @@ function jp_install() {
 		'hide_navigation' => 'on',
 		
 		'show_next_prev' => 'on',
+
+
 		
 		'load_jquery' => 'on',
 		'load_jquery_ui' => 'on',
@@ -713,6 +715,7 @@ function jp_uninstall() {
 if ( function_exists('add_action') ) {
 	
 	$options = jp_get_option();
+	
 	
 	add_action('init', 'jp_textdomain');
 	add_action("admin_head", 'jp_admin_head');
@@ -761,14 +764,8 @@ register_deactivation_hook(__FILE__,'jp_uninstall');
 /*
 	load jquery and jquery ui with slider
 */
-function jp_load() {
-	global $wp_query;
-	
-	$max_page = $wp_query->max_num_pages;	
-	if (is_home() or is_search() or is_archive() && $max_page > 1 && strpos(TEMPLATEPATH, 'wptouch') === false) {
-		wp_enqueue_script('jquery');
-		wp_enqueue_script('jquery-ui-core');
-	}
-}
+wp_enqueue_script('jquery');
+wp_enqueue_script('jquery-ui-core');
+
 
 ?>
