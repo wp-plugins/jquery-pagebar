@@ -1,29 +1,15 @@
-=== jQuery-Pagebar ===
+=== jQuery-Pagebar (Deprecated) ===
 Contributors: ocean90
 Tags: pagebar, jquery, navigation
 Requires at least: 2.6
 Tested up to: 2.9.2
 Stable tag: 0.3.3
 
-This plugin show instead of the next and prev links a jQuery slider as a modern pagebar. So it's easy to navigate through many pages.
+**This plugin is no longer maintained. Please go ahead and try another one.**
 
 == Description ==
 
-*jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.*
-
-With that new kind of JavaScript Library this plugin works.
-
- 
-jQuery-Pagebar show instead of the next and prev links a jQuery slider as a modern pagebar. So it's easy to navigate through many pages.
-
-You can see an demo on my blog: http://ocean90.de/blog/
-
-
-Language:
-
-- English (by me)
-- German (by me)
-- Russian (by [fatcow.com](http://fatcow.com/ "fatcow.com"))
+**This plugin is no longer maintained. Please go ahead and try another one.**
 
 == Installation ==
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
@@ -32,16 +18,14 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 1. Screen of jQuery-Pagebar
 
-
 == Changelog ==
 = version 0.3.3 =
-* fix bug, thx to  [fruity](http://ocean90.wphelper.de/wordpress/plugin-jquery-pagebar/#comment-9007 "Comment")
+* fix bug
 * Javascript libaries are now only loaded when they are needed by jQuery Pagebar
  
 = version 0.3.2.2 =
 * fix bug, thx to scribu [298820](http://wordpress.org/support/topic/298820 "298820")
-* add russian language file, thx to [fatcow.com](http://fatcow.com/ "fatcow.com")
-
+* add russian language file
 
 = version 0.3.2.1 =
 * fix bug
